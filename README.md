@@ -1,4 +1,4 @@
-# Lytx-Terraform_Test
+# Terraform_Test
 # AWS Terraform Configuration README
 
 This repository contains a Terraform template for setting up various AWS resources across multiple regions (`us-east-1` and `us-west-1`). The resources include security groups, IAM roles and policies, and EC2 instances, with a focus on enabling SSH and ICMP access for AWS Systems Manager (SSM) in both regions.
